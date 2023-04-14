@@ -33,14 +33,14 @@ Ignore all that waffle for now and just focus on these links:
 
 Training Materials with Exercises and Answers:
 
-1.  Getting Started with R
+1.  [Getting Started with R](https://tbalbone31.github.io/ONS_intro_to_R/Course_content/Chapter_1_Getting_Started_with_R.html)
 
-2.  Data Structures
+2.  [Data Structures](https://tbalbone31.github.io/ONS_intro_to_R/Course_content/Chapter_2_Data_Structures.html)
 
-3.  Importing & Exporting Data
+3.  [Importing & Exporting Data](https://tbalbone31.github.io/ONS_intro_to_R/Course_content/Chapter_3_Importing_and_Exporting_Data.html)
 
-4.  Working with DataFrames
+4.  [Working with DataFrames](file:///C:/Users/tbalb/Documents/DataScience/ONS_intro_to_R/Course_content/Chapter_4_Working_with_DataFrames.html)
 
-5.  Summary Statistics and Aggregation
+5.  [Summary Statistics and Aggregation](file:///C:/Users/tbalb/Documents/DataScience/ONS_intro_to_R/Course_content/Chapter_5_Summary_Statistics_and_Aggregation.html)
 
-My Markdown html experiments:
+[My Exercise attempts (not formatted very well)](https://tbalbone31.github.io/ONS_intro_to_R/main.html)
